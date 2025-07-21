@@ -67,4 +67,3 @@ This is a custom CNN architecture designed for this project. It consists of seve
 ## Results
 
 All three models perform well on the task, with both AlexNet and the custom FruitNet achieving over 94% validation accuracy. The detailed classification reports and confusion matrices can be found in the output of the Jupyter Notebook.
-````
