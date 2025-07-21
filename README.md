@@ -1,4 +1,3 @@
-````
 # Fresh vs. Rotten Fruit Classification
 
 This project utilizes deep learning to classify images of fruits as either fresh or rotten. It implements and compares three different Convolutional Neural Network (CNN) architectures for this task:
